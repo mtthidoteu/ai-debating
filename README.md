@@ -1,7 +1,3 @@
-I am hosting a version with my api key of this program to view what a debate looks like: https://debate-project.jaseroque.com
-password will be: COMP4105DIA
-
-
 ## Viewing Metrics
 The "main" page is the page showing the current metrics and a few graphgs that were used in the report
 
