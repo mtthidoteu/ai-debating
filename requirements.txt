@@ -1,0 +1,10 @@
+streamlit
+openai
+textblob
+peewee
+spacy
+syllapy
+scipy
+scikit-learn
+plotly
+python-dotenv
